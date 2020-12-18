@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# @code stuff
+*.code-workspace
+.history
+.vscode
